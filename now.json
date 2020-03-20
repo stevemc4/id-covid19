@@ -1,5 +1,5 @@
 {
   "env": {
-    "IFTTT_TOKEN": "@covid19-token"
+    "IFTTT_TOKEN": "@idcovid19-token"
   }
 }
